@@ -1,0 +1,90 @@
+himanshu@himanshu-VirtualBox:~/gittraining_v1$ history
+    3  sudo apt-get update 
+    4  sudo apt-get upgrade 
+    5  git --version
+    6  sudo apt-get install git
+    7  git --version
+    8  git --help
+   10  git help pull
+   11  git help 
+   12  git config --global user-name "Himanshu Madrele"
+   13  git config user.name "Himanshu Madrele"
+   14  git config --global user.name "Himanshu Madrele"
+   15  history
+   16  git config --global user.email "himanshu.madrele@gmail.com"
+   17  git config --list
+   18  pwd
+   19  mkdir gittraining_v1
+   20  cd gittraining_v1/
+   21  git init
+   22  ls -a
+   23  cd .git
+   24  ll
+   27  ls -a
+   28  cd ..
+   29  ls
+   30  git commit
+   31  touch first_file.txt
+   33  git status first_file.txt
+   34  vi first_file.txt
+   35  git add first_file.txt 
+   36  git status
+   37  git add .
+   38  git status
+   39  pwd
+   40  ls -a
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit -m "first commit"
+   45  git status
+   46  vi first_file.txt 
+   47  git status
+   48  git diff
+   49  git commit -m "second commit"
+   50  git add
+   51  git commit -m "second commit"
+   52  git status
+   53  git add .
+   54  git commit -m "second commit"
+   55  git status
+   56  git diff
+   57  git help diff
+   58  vi first_file.txt 
+   59  git diff
+   60  git add .
+   61  git status
+   62  git commit -m "third commit"
+   63  touch secondfile.txt
+   64  vi secondfile.txt
+   65  git status
+   66  git add secondfile.txt 
+   67  git status
+   68  git commit -m "second file commit"
+   69  git status
+   70  git log
+   71  git log --author="Himanshu"
+   72  git log --author="himanshu.madrele"
+   73  git log --author="himanshu.madrele@gmail.com"
+   75  git log --author="himanshu.madrele@gmail.com"
+   76  hiostory
+himanshu@himanshu-VirtualBox:~/gittraining_v1$ 
+
+himanshu@himanshu-VirtualBox:~/githubtraining$ history
+    1  sudo apt-install pytho3-pip
+    2  sudo apt install pytho3-pip
+    3  git clone https://github.com/himadrel/githubtraining.git
+    4  git clone https://github.com/himadrele/githubtraining.git
+    5  ls
+    6  cd githubtraining/
+    7  ll
+    8  ls -a
+    9  git pull
+   10  ls
+   11  vi testfile 
+   12  git status
+   13  git commit -am "to check the second comman"
+   14  git push
+   15  history
+himanshu@himanshu-VirtualBox:~/githubtraining$ 
+
